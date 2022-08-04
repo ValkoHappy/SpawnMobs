@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc0f958b35090cb43b191d550824a7fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _template: {fileID: 6037627015686265760, guid: ab47740269b00b34c87914f7b2712136, type: 3}
+  _template: {fileID: 0}
   _point: {fileID: 6704676556505757622}
   _delay: 2
 --- !u!61 &44323127
