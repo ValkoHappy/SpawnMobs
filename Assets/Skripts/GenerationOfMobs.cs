@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawn : MonoBehaviour
+public class GenerationOfMobs : MonoBehaviour
 {
     [SerializeField] private GameObject _template;
     [SerializeField] private Transform _point;
